@@ -13,7 +13,7 @@ export class ComponentToViewComponent implements OnInit {
   public imgWidth : number = 300;
   public isDisable: boolean = true;
 
-  public user : object = {
+  public user = {
     name: 'Dever',
     age: 23,
     isMarried:false
